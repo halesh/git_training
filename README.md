@@ -1,2 +1,2 @@
 # git_training
-Training details
+Training details followed
